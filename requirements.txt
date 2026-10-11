@@ -1,0 +1,2 @@
+# Runtime and tests use the Python 3.11+ standard library only.
+# No third-party packages are required. Do not add exploit or bypass tooling.

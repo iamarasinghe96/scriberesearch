@@ -1,0 +1,33 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Secrets, local scope records, and raw research outputs
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.pcap
+*.pcapng
+*.har
+*.local.*
+research/evidence/*
+!research/evidence/README.md
+reports/
+work/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
